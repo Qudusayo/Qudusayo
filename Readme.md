@@ -6,7 +6,8 @@
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-css3-24.png"></code>
 <code><img height="20" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-sql-26.png"></code>
 
-<p>- 💬 Social Links </p>
+<br/>
+<br/>
 
 <a href="https://twitter.com/qudusayo">
   <img align="left" alt="Qudusayo | Twitter" width="41px" src="https://github.com/gbolame/gbolame/blob/master/img/icons8-twitter-48.png" />
